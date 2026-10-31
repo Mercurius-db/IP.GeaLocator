@@ -4,12 +4,12 @@
 
 Een klein programma in C# dat een IP-adres opzoekt en toont waar dat adres ongeveer vandaan komt. Het is gemaakt om te leren hoe IP-locaties werken en hoe je jezelf beschermt.
 
-## Status
+## functies 
 
-- Werkt: land, stad, coördinaten, postcode, regio en provider tonen
-- Werkt: Google Maps link maken van de coördinaten
-- Werkt: leeg laten van de invoer geeft je eigen publieke IP
-- Werkt: foutmelding bij geen internet of een ongeldig adres
+1: land, stad, coördinaten, postcode, regio en provider tonen
+2: Google Maps link maken van de coördinaten
+3: leeg laten van de invoer geeft je eigen publieke IP
+4: foutmelding bij geen internet of een ongeldig adres
 
 ## Hoe werkt het?
 
