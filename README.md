@@ -6,10 +6,10 @@ Een klein programma in C# dat een IP-adres opzoekt en toont waar dat adres ongev
 
 ## functies 
 
-1: land, stad, coördinaten, postcode, regio en provider tonen
-2: Google Maps link maken van de coördinaten
-3: leeg laten van de invoer geeft je eigen publieke IP
-4: foutmelding bij geen internet of een ongeldig adres
+-1: land, stad, coördinaten, postcode, regio en provider tonen
+-2: Google Maps link maken van de coördinaten
+-3: leeg laten van de invoer geeft je eigen publieke IP
+-4: foutmelding bij geen internet of een ongeldig adres
 
 ## Hoe werkt het?
 
