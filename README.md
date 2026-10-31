@@ -13,12 +13,12 @@ Een klein programma in C# dat een IP-adres opzoekt en toont waar dat adres ongev
 
 ## Hoe werkt het?
 
-1. Het programma toont de banner IP.Geolocator.
-2. Jij typt een IP-adres. Typ je niets, dan gebruikt het programma je eigen publieke IP.
-3. Het programma vraagt de gegevens op bij ipinfo.io via een gewone internetaanvraag (HTTPS).
-4. ipinfo.io stuurt een antwoord in JSON terug. Dat is een tekstformaat met naam en waarde.
-5. Newtonsoft.Json zet dat antwoord om naar een object, de klasse Data.
-6. Het programma toont de gegevens en bouwt een Google Maps link met de coördinaten.
+-1. Het programma toont de banner IP.Geolocator.
+-2. Jij typt een IP-adres. Typ je niets, dan gebruikt het programma je eigen publieke IP.
+-3. Het programma vraagt de gegevens op bij ipinfo.io via een gewone internetaanvraag (HTTPS).
+-4. ipinfo.io stuurt een antwoord in JSON terug. Dat is een tekstformaat met naam en waarde.
+-5. Newtonsoft.Json zet dat antwoord om naar een object, de klasse Data.
+-6. Het programma toont de gegevens en bouwt een Google Maps link met de coördinaten.
 
 
 ## Starten
